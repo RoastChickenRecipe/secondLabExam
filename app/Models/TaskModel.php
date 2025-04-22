@@ -12,4 +12,5 @@ class TaskModel extends Model
         'description',
         'is_completed'
     ];
+    
 }
